@@ -1,5 +1,5 @@
 # Am still working on it!!!!!
-I've only done the pyqs of phy and cs, all other subjects are still being worked on.
+I've only done the pyqs of phy, cs nad only a psrt of maths, all other subjects are still being worked on.
 If github seems too jaaring, I'll do a google drive version later.
 
 
