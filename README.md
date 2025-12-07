@@ -1,6 +1,6 @@
 # Am still working on it!!!!!
-i've only done the pyqs of phy and cs, all other subjects are still being worked on.
-if github seems too jaaring, i'll do a google drive version later.
+I've only done the pyqs of phy and cs, all other subjects are still being worked on.
+If github seems too jaaring, I'll do a google drive version later.
 
 
 
