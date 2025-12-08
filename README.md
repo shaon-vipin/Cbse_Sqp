@@ -1,7 +1,7 @@
 # Common preboard datesheet
 | Date       | Day       | Subject                      |
 | ---------- | --------- | ---------------------------- |
-| 08/12/2025 | Monday    | Physics / Accountancy        |✅
+| 08/12/2025 | Monday    | Physics / Accountancy  ✅    |
 | 10/12/2025 | Wednesday | Physical Education           |
 | 12/12/2025 | Friday    | Chemistry / Business Studies |
 | 15/12/2025 | Monday    | Mathematics                  |
