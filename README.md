@@ -14,7 +14,7 @@
 I've only done the pyqs of phy, cs and only a part of maths, all other subjects are still being worked on.
 If github seems too jaaring, I'll do a google drive version later.
 
-
+bruh
 
 # Cbse_Sqp
 ## All sample papers with solutions from 24-25 & 25-26
